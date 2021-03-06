@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Coche">
+  <ClassDiagramComponents>
+    <Class name="Coche" package="" visibility="public" xPosition="405.0" yPosition="114.0">
+      <Fields>
+        <Field name="color_coche" type="string" visibility="private"/>
+        <Field name="modelo" type="string" visibility="private"/>
+        <Field name="caballos_de_fuerza" type="int" visibility="private"/>
+        <Field name="numero_de_puertas" type="int" visibility="private"/>
+        <Field name="matricula" type="string" visibility="private"/>
+        <Field name="marca" type="string" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="untitledMethod" returnType="void" visibility="public"/>
+        <Method name="untitledMethod1" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
